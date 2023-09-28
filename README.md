@@ -17,12 +17,6 @@ PROJECTS DESCRIPTION:
 
 - ***Smart Study Room***->
   Devised and implemented decentralized and modular IoT devices ecosystem for the management and control of a smart study room.
-      
-  Exploited sensors to control room's brightness, noise, temperature, student access via authentication, CO2 and humidity levels. Built on Raspberry Pi and Arduino IDE.
-
-  Programmed with MQTT and REST communication paradigms. Used cherrypy Python library.
-
-  Created user interface for critical values detection  via Telegram and statistical data visualization via ThingSpeak. Cooperated in a team of 4 students.
 
   Deployed Docker micro-services to improve application flexibility and interoperability.
 
